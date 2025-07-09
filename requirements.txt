@@ -1,0 +1,15 @@
+altgraph==0.17.4
+certifi==2025.1.31
+charset-normalizer==3.4.1
+idna==3.10
+packaging==24.2
+pefile==2023.2.7
+pyinstaller==6.12.0
+pyinstaller-hooks-contrib==2025.2
+pytube==15.0.0
+pywin32-ctypes==0.2.3
+requests==2.32.3
+setuptools==78.1.0
+urllib3==2.3.0
+youtube-dl==2021.12.17
+yt-dlp==2025.3.31
